@@ -37,9 +37,9 @@ ___
     **Surprised:** Some headers are common for request and response messages. Via header where intermediate proxies or gateways inject their IP or DNS names.  
     **Plan to use:** Tools that allow to monitor HTTP communication, for example: Chrome inspector, Wireshark. 
 - HTTP part 2  
-**New:**  Persistent TCP connections that were introduced in HTTP 1.1 that stay open until client closes them and can be reused.  The notion of Fat URLs, Digest Authentication, pool of connections.  
-**Surprised:**  Multiple caching proxies, Cache-control header values.  
-**Plan to use:** Cookies, cache, basic authentication.
+    **New:**  Persistent TCP connections that were introduced in HTTP 1.1 that stay open until client closes them and can be reused.  The notion of Fat URLs, Digest Authentication, pool of connections.  
+    **Surprised:**  Multiple caching proxies, Cache-control header values.  
+    **Plan to use:** Cookies, cache, basic authentication.
 
 ___
 
@@ -49,14 +49,50 @@ ___
     <summary></summary>
 
     ![Git basics](task_git_collaboration/branching1.png)
-    ![Git remote repositories](task_git_collaboration/branching2.png)</details>  
-**New:** Git tags, rebase.  
-**Surprised:** Local main branch is not necessarily directly mapped to the remote main branch. The obsession with keeping commit history clean hence avoiding merge commits.     
-**Plan to use:** Cherry-pick.
+    ![Git remote repositories](task_git_collaboration/branching2.png)</details> **New:** Git tags, rebase.  
+    **Surprised:** Local main branch is not necessarily directly mapped to the remote main branch. The obsession with keeping commit history clean hence avoiding merge commits.     
+    **Plan to use:** Cherry-pick.
 - Git and github <details>
     <summary></summary>
 
     ![](task_git_collaboration/gitgithub.png)</details>
-**New:**  Squashing commits, rebasing.  
-**Surprised:**  Squashing commits.  
-**Plan to use:**  Well, eventually everything.
+    **New:**  Squashing commits, rebasing.  
+    **Surprised:**  Squashing commits.  
+    **Plan to use:**  Well, eventually everything.
+
+___
+
+## [x] 3. Intro to HTML and CSS
+
+- Intro to HTML & CSS<details>
+    <summary></summary>
+
+    ![Week 1 part 1](task_html_css_intro/htmlcssintro1.png)
+    ![Week 1 part 2](task_html_css_intro/htmlcssintro2.png)
+    ![Week 2](task_html_css_intro/htmlcssintro3.png)</details>
+    
+    https://semkivolya.github.io/Module2CodingAssignment/
+
+    **New:**  Implementation details of bootstrap grid system. Box-sizing is not inherited. Vertical margins of floated elements do not collapse. And finally I have understood the notion of 'clear' property.  
+    **Surprised:**  The exercises are surprisingly good: they make you think and help to better remember information.  
+    **Plan to use:** Bootstrap for quick and easy layout.
+
+- Learn HTML <details>
+    <summary></summary>
+
+    ![Learn HTML certificate](task_html_css_intro/html.png)
+    </details>
+
+    **New:** Datalist element.  
+    **Surprised:** -   
+    **Plan to use:** Everything.
+
+- Learn CSS <details>
+    <summary></summary>
+
+    ![Learn CSS certificate](task_html_css_intro/css.png)
+    </details>
+
+    **New:** Position 'sticky'.  
+    **Surprised:** Floated elements must have width specified.   
+    **Plan to use:** Everything.
