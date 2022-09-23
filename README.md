@@ -96,3 +96,33 @@ ___
     **New:** Position 'sticky'.  
     **Surprised:** Floated elements must have width specified.   
     **Plan to use:** Everything.
+
+___
+## [x] 4. Responsive Web Design
+
+- Responsive web design basics
+
+    **New:**  By default mobile browsers render pages at desktop width. You can easily view media query breakpoints in developer tools.  
+    **Surprised:** In landscape mode some browsers do not change page\`s width.   
+    **Plan to use:** Setting image`s max-width to 100%. Setting viewport meta tag.
+
+- FLEXBOX. Вчимося верстати на флексах
+
+    **Summary:** Will rewatch multiple times, especially the last video with real project.  
+
+
+- Flexbox froggy <details>
+    <summary></summary>
+
+    ![Flexbox froggy all levels done](task_responsive_web_design/cssfroggy.png)
+    </details>
+
+- CSS Grid Layout
+
+    **Summary:** Will rewatch multiple times, especially the last video with real project.  
+
+- Grid Garden <details>
+    <summary></summary>
+
+    ![Grid garden all levels done](task_responsive_web_design/gridgarden.png)
+    </details>
