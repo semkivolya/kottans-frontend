@@ -126,3 +126,13 @@ ___
 
     ![Grid garden all levels done](task_responsive_web_design/gridgarden.png)
     </details>
+
+    __
+
+## [x] 5. HTML & CSS Practice
+  
+  https://github.com/semkivolya/hooli-style-popup
+
+  **Summary:** The most difficulty I had was with aligning images. Seems like I have to learn a bit more about it.
+
+  
