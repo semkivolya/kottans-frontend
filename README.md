@@ -135,4 +135,49 @@ ___
 
   **Summary:** The most difficulty I had was with aligning images. Seems like I have to learn a bit more about it.
 
+## [x] 6. JavaScript Basics
   
+- Вступ до JS <details>
+    <summary></summary>
+
+  ![Intro to js finished](task_js_basics/introtojs.png)
+    </details>
+
+- Basic JavaScript <details>
+    <summary></summary>
+
+    ![Intro to js exercises done](task_js_basics/basicjs.png)
+    </details>
+
+- ES6 Challenges <details>
+    <summary></summary>
+
+  ![ ES6 Challenges exercises done](task_js_basics/es6.png)
+      </details>
+
+- Basic Data Structures <details>
+    <summary></summary>
+
+  ![Basic Data Structures exercises done](task_js_basics/basicdatastruct.png)
+    </details>
+
+- Basic Algorithm Scripting <details>
+    <summary></summary>
+
+  ![Basic Algorithm Scripting exercises done](task_js_basics/basicalg.png)
+
+    </details>
+
+- Functional Programming <details>
+    <summary></summary>
+
+  ![Functional Programming exercises done](task_js_basics/functional.png)
+
+    </details>
+
+- Algorithm Scripting Challenges <details>
+    <summary></summary>
+
+  ![Algorithm Scripting Challenges exercises done](task_js_basics/intermidjs.png)
+
+    </details>
